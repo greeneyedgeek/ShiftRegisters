@@ -1,7 +1,7 @@
 -- File Name: ShiftRegisters.vhd
 -- Project Name: SHIFT REGISTERS VHDL IMPLEMENTATION
 --
--- This is the top level entity for a RAM implementation on a Cyclone II
+-- This is the top level entity for a SIPO Shift Register implementation on a Cyclone II
 --
 -- Author: Gabriel Fontaine-Escobar	
 -- Date Created: Aug. 15, 2020
