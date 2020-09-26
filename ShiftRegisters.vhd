@@ -1,3 +1,21 @@
+-- File Name: ShiftRegisters.vhd
+-- Project Name: SHIFT REGISTERS VHDL IMPLEMENTATION
+--
+-- This is the top level entity for a RAM implementation on a Cyclone II
+--
+-- Author: Gabriel Fontaine-Escobar	
+-- Date Created: Aug. 15, 2020
+-- Date Modified: Sep. 25, 2020
+--																										
+-- References 
+--																					
+-- VHDL Whiz.(August 2020)
+-- https://vhdlwhiz.com/shift-register/
+--
+-- Unknown Source.(August 2020)
+-- Can't find the reference for the clock divider
+--
+
 library ieee;
 use ieee.std_logic_1164.all;
 
